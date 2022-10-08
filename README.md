@@ -1,15 +1,16 @@
-# MINE-4101-taller-1
+# MINE-4101: Taller 1
+
+Estudiante: Juan Sebastian Alvarez Eraso
+
+Código: 201822427
 
 Para este taller se utilizará una base de datos de Spotify en donde se encuentran las canciones más escuchadas incluyendo características tanto intrínsecas como extrínsecas de cada canción.
 
 ## Instrucciones
 
-1. Abrir el notebook `Taller1.ipynb` con Colab o Jupyter.
-2. Cambiar el path del folder y el nombre del archivo en el "Setup" (Sección "Inicio"). estos son los valores por defecto:
+1. Abrir el notebook `Taller_1.ipynb` con Colab o Jupyter.
+2. Ejecutar el notebook.
 
-```
-%cd /content/drive/MyDrive/Ciencia de datos aplicada/Taller 1/Dataset
-NOMBRE_DEL_ARCHIVO = 'Data_Taller_1.csv'
-```
+## Ver en Colab
 
-3. Ejecutar el notebook.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/juanalvarez123/MINE-4101-taller-1/blob/main/Taller_1.ipynb)
