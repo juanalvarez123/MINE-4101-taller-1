@@ -4,7 +4,7 @@ Estudiante: Juan Sebastian Alvarez Eraso
 
 Código: 201822427
 
-Para este taller se utilizará una base de datos de Spotify en donde se encuentran las canciones más escuchadas incluyendo características tanto intrínsecas como extrínsecas de cada canción.
+Análisis exploratorio de datos de una base de datos de Spotify en donde se encuentran las canciones más escuchadas incluyendo características tanto intrínsecas como extrínsecas de cada canción.
 
 ## Instrucciones
 
